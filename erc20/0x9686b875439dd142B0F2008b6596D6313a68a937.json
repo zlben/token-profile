@@ -1,0 +1,25 @@
+{
+  "symbol": "PS",
+  "address": "0x9686b875439dd142b0f2008b6596d6313a68a937",
+  "overview":{
+        "en": "Paul Sports Coin",
+        "zh": "章鱼币"
+  },
+  "email": "575239756@qq.com",
+  "website": "",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "",
+  "initial_price":{
+  },
+  "links": {
+    "blog": "",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
